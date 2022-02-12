@@ -5,6 +5,8 @@ Baixo você encontra uma lista detalha dos meus projetos que estão hospedados a
 
 ## Principais
 
+<br/>
+
 #### [Landing Page Easybank](https://github.com/Cesar959/easybank-landing-page)
 Criação de uma Landing Page atrativa para os usuários contendo algumas animações para manter a atenção durante a navegação, Além de um menu hambúrguer para a versão mobile.
 
@@ -41,6 +43,8 @@ Recursos utilizados: `` React ``
 
 
 ## Segundarios
+
+<br/>
 
 #### [FAQ](https://github.com/Cesar959/faq)
 Criação da template FAQ accordion card baseado no desafio proposto pela Frontend Mentor que sugeriu desafios reais do mercado de trabalho afim de ajudar no desenvolvimento de novas habilidades de programação.
