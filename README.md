@@ -2,7 +2,6 @@
 
 Baixo você encontra uma lista detalha dos meus projetos que estão hospedados aqui no GitHub, dessa forma fica mais fácil ser orientar entre os repositórios. 
 
-<br/>
 
 ## Principais
 
