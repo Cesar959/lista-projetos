@@ -14,6 +14,14 @@ Recursos utilizados: `` HTML `` `` CSS  ``  `` JavaScript  ``  `` SEO ``
 ---
 <br/>
 
+#### [Clone Pagina inicial da Netflix](https://github.com/Cesar959/netflix-clone-inicial)
+O projeto é um clone da pagina inicial da Netflix (é uma provedora global de filmes e séries de televisão via streaming sediada em Los Gatos, Califórnia) feita com a biblioteca React.
+
+Recursos utilizados: `` React `` 
+
+---
+<br/>
+
 #### [Crud de Porto de Navios](https://github.com/Cesar959/crud-porto-navio)
 O projeto é um crud de Porto de Navios aonde é possível cadastrar, alterar, ler e excluir registro de Containers e Movimentações no banco de dados com paginação de resultados, campo de pesquisa e exportação de dados via PDF.
 
