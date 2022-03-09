@@ -100,6 +100,15 @@ Recursos utilizados: `` HTML `` `` CSS  ``  `` JavaScript  ``  `` PHP ``  `` SQL
 ---
 <br/>
 
+
+#### [Calculadora](https://github.com/Cesar959/calculadora)
+Criação do app Calculadora baseado no desafio proposto pela Frontend Mentor que sugeriu desafios reais do mercado de trabalho afim de ajudar no desenvolvimento de novas habilidades de programação.
+
+Recursos utilizados: `` HTML `` `` CSS  ``  `` JavaScript  `` 
+
+---
+<br/>
+
 #### [Página de destino da API de encurtamento de URL](https://github.com/Cesar959/pagina-encurtamento-url)
 Criação do Pagina de Encurtamento de Url baseado no desafio proposto pela Frontend Mentor que sugeriu desafios reais do mercado de trabalho afim de ajudar no desenvolvimento de novas habilidades de programação.
 
