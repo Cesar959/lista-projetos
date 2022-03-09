@@ -52,14 +52,6 @@ Recursos utilizados: `` React ``
 ## Segundarios
 
 
-#### [FAQ](https://github.com/Cesar959/faq)
-Criação da template FAQ accordion card baseado no desafio proposto pela Frontend Mentor que sugeriu desafios reais do mercado de trabalho afim de ajudar no desenvolvimento de novas habilidades de programação.
-
-Recursos utilizados: `` HTML `` `` CSS  ``  `` JavaScript  ``  `` SASS ``  
-
----
-<br/>
-
 #### [API Node RESTful Crud](https://github.com/Cesar959/api-node-crud-simples)
 O projeto é uma API RESTful aonde é possível cadastrar, alterar, ler e excluir usuários.
 
