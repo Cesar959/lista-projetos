@@ -52,6 +52,15 @@ Recursos utilizados: `` React ``
 ## Segundarios
 
 
+#### [Teste automatizado com Cypress](https://github.com/Cesar959/teste-cypress/)
+O projeto de teste automatizado com Cypress, aonde foi realizado vários testes de softwares com o objetivo de verificar a qualidade do mesmo.
+
+Recursos utilizados: `` Node `` `` Cypress  ``  
+
+---
+<br/>
+
+
 #### [FAQ](https://github.com/Cesar959/faq)
 Criação da template FAQ accordion card baseado no desafio proposto pela Frontend Mentor que sugeriu desafios reais do mercado de trabalho afim de ajudar no desenvolvimento de novas habilidades de programação.
 
