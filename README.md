@@ -1,6 +1,6 @@
 # Lista de Projetos
 
-Baixo você encontra uma lista detalha dos meus projetos que estão hospedados aqui no GitHub, dessa forma fica mais fácil ser orientar entre os repositórios. 
+Em baixo você encontra uma lista detalhada dos meus projetos que estão hospedados aqui no GitHub, dessa forma fica mais fácil ser orientar entre os repositórios. 
 
 
 ## Principais
@@ -61,14 +61,6 @@ Recursos utilizados: `` Node `` `` Cypress  ``
 <br/>
 
 
-#### [FAQ](https://github.com/Cesar959/faq)
-Criação da template FAQ accordion card baseado no desafio proposto pela Frontend Mentor que sugeriu desafios reais do mercado de trabalho afim de ajudar no desenvolvimento de novas habilidades de programação.
-
-Recursos utilizados: `` HTML `` `` CSS  ``  `` JavaScript  ``  `` SASS ``  
-
----
-<br/>
-
 #### [API Node RESTful Crud](https://github.com/Cesar959/api-node-crud-simples)
 O projeto é uma API RESTful aonde é possível cadastrar, alterar, ler e excluir usuários.
 
@@ -113,6 +105,15 @@ Recursos utilizados: `` JSON `` `` PHP   ``  `` SQL  ``  `` Composer  ``
 O projeto é um crud de livros aonde é possível cadastrar, alterar, ler e excluir registro de livros no banco de dados. Para isso foi utilizando o PHP para realizar execução de instruções SQL no banco de dados phpMyAdmin, além disso foi utilizado POO (Programação Orientada a Objetos), PDO (PHP Data Object) e DAO (Data Access Object) na construção das class. 
 
 Recursos utilizados: `` HTML `` `` CSS  ``  `` JavaScript  ``  `` PHP ``  `` SQL ``
+
+---
+<br/>
+
+
+#### [Calculadora](https://github.com/Cesar959/calculadora)
+Criação do app Calculadora baseado no desafio proposto pela Frontend Mentor que sugeriu desafios reais do mercado de trabalho afim de ajudar no desenvolvimento de novas habilidades de programação.
+
+Recursos utilizados: `` HTML `` `` CSS  ``  `` JavaScript  `` 
 
 ---
 <br/>
