@@ -55,7 +55,7 @@ Recursos utilizados: `` React ``
 #### [Teste automatizado com Cypress](https://github.com/Cesar959/teste-cypress/)
 O projeto de teste automatizado com Cypress, aonde foi realizado vários testes de softwares com o objetivo de verificar a qualidade do mesmo.
 
-Recursos utilizados: `` Node `` `` Cypress  ``  
+Recursos utilizados: `` Node `` `` Cypress  ``  `` Json  `` 
 
 ---
 <br/>
